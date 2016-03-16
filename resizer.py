@@ -8,7 +8,6 @@ Resize pictures and copy to owncloud
 
 import os.path
 import glob
-import exifread
 from PIL import Image
 from resizeimage import resizeimage
 
